@@ -5,8 +5,8 @@ from routers import main_router
 import uvicorn
 
 app = FastAPI(
-    title = "SeSAC Dobong AI - FastAPI Application",
-    description="SeSAC Dobong AI",
+    title = "AI - FastAPI Application",
+    description="AI",
     version = "0.0.1"
 )
 app.include_router(main_router)

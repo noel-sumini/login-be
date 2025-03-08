@@ -1,4 +1,4 @@
-# SeSAC 도봉캠퍼스 AI강의 - Web 기초 실습
+# AI강의 - Web 기초 실습
 - FastAPI Backend 실습
 
 ## source code 구성
